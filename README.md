@@ -1,7 +1,1 @@
-# The Open-Source Magnetic Particle Imaging Project
----
-## Abstract
-Magnetic Particle Imaging (MPI) is an emerging imaging modality with a growing research community and a growing commercial foundation. Despite being introduced over a decade ago and having hundreds of associated publications, the bar for entry to the field remains quite high due to instrumentation costs and the inherent design complexity. Here we introduce an open-source project, OS-MPI, with the aim of facilitating entry into the field by providing design details of a field free line (FFL)-based pre-clinical scale imager and supporting systems and software. Our initiative is hosted on GitHub and presents a selection of MPI systems including our small-bore imager, a spectroscopy device, and a magnet winding jig. We will continually update as our designs evolve and encourage and foster a community-driven development. For each system, we describe all relevant mechanical and electrical designs, design rationale and simulations, assembly guidelines, and a parts list and cost breakdown.
-
-## File Structure
-The files are arranged within four primary repositories, one for each major project (imager, MPS, and winding jig) plus this repository for more general information that doesn't fit nicely within another repository. Within each repository there is a folder for Inventor files, general documentation (MATLAB scripts, parts manangement sheet, simulations, etc.), and then misc. project specific files.
+No longer being update. Individual projects will go to their respective repos, instead of this more general-purpose one. 
